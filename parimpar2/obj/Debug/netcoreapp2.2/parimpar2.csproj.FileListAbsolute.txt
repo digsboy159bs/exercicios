@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\parimpar2\bin\Debug\netcoreapp2.2\parimpar2.deps.json
+C:\Users\34436810852\Documents\exercicios\parimpar2\bin\Debug\netcoreapp2.2\parimpar2.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\parimpar2\bin\Debug\netcoreapp2.2\parimpar2.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\parimpar2\bin\Debug\netcoreapp2.2\parimpar2.dll
+C:\Users\34436810852\Documents\exercicios\parimpar2\bin\Debug\netcoreapp2.2\parimpar2.pdb
+C:\Users\34436810852\Documents\exercicios\parimpar2\obj\Debug\netcoreapp2.2\parimpar2.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\parimpar2\obj\Debug\netcoreapp2.2\parimpar2.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\parimpar2\obj\Debug\netcoreapp2.2\parimpar2.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\parimpar2\obj\Debug\netcoreapp2.2\parimpar2.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\parimpar2\obj\Debug\netcoreapp2.2\parimpar2.dll
+C:\Users\34436810852\Documents\exercicios\parimpar2\obj\Debug\netcoreapp2.2\parimpar2.pdb
