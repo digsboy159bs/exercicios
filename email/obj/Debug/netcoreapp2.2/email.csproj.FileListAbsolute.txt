@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\email\obj\Debug\netcoreapp2.2\email.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\email\obj\Debug\netcoreapp2.2\email.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\email\obj\Debug\netcoreapp2.2\email.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\email\obj\Debug\netcoreapp2.2\email.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\email\bin\Debug\netcoreapp2.2\email.deps.json
+C:\Users\34436810852\Documents\exercicios\email\bin\Debug\netcoreapp2.2\email.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\email\bin\Debug\netcoreapp2.2\email.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\email\bin\Debug\netcoreapp2.2\email.dll
+C:\Users\34436810852\Documents\exercicios\email\bin\Debug\netcoreapp2.2\email.pdb
+C:\Users\34436810852\Documents\exercicios\email\obj\Debug\netcoreapp2.2\email.dll
+C:\Users\34436810852\Documents\exercicios\email\obj\Debug\netcoreapp2.2\email.pdb
