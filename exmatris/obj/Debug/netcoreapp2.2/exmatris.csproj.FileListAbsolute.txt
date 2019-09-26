@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\exmatris\obj\Debug\netcoreapp2.2\exmatris.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\exmatris\obj\Debug\netcoreapp2.2\exmatris.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\exmatris\obj\Debug\netcoreapp2.2\exmatris.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\exmatris\obj\Debug\netcoreapp2.2\exmatris.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\exmatris\bin\Debug\netcoreapp2.2\exmatris.deps.json
+C:\Users\34436810852\Documents\exercicios\exmatris\bin\Debug\netcoreapp2.2\exmatris.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\exmatris\bin\Debug\netcoreapp2.2\exmatris.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\exmatris\bin\Debug\netcoreapp2.2\exmatris.dll
+C:\Users\34436810852\Documents\exercicios\exmatris\bin\Debug\netcoreapp2.2\exmatris.pdb
+C:\Users\34436810852\Documents\exercicios\exmatris\obj\Debug\netcoreapp2.2\exmatris.dll
+C:\Users\34436810852\Documents\exercicios\exmatris\obj\Debug\netcoreapp2.2\exmatris.pdb
