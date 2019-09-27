@@ -32,6 +32,7 @@ namespace area
                 double areaQuad = (ladoQuad * ladoQuad);
                   Console.WriteLine("A área do quadrado é: " + areaQuad);
                   break;
+                  
 
             }
         }
