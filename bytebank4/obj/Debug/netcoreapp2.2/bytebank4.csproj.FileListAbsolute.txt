@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\bytebank4\obj\Debug\netcoreapp2.2\bytebank4.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\bytebank4\obj\Debug\netcoreapp2.2\bytebank4.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\bytebank4\obj\Debug\netcoreapp2.2\bytebank4.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\bytebank4\obj\Debug\netcoreapp2.2\bytebank4.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\bytebank4\bin\Debug\netcoreapp2.2\bytebank4.deps.json
+C:\Users\34436810852\Documents\exercicios\bytebank4\bin\Debug\netcoreapp2.2\bytebank4.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\bytebank4\bin\Debug\netcoreapp2.2\bytebank4.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\bytebank4\bin\Debug\netcoreapp2.2\bytebank4.dll
+C:\Users\34436810852\Documents\exercicios\bytebank4\bin\Debug\netcoreapp2.2\bytebank4.pdb
+C:\Users\34436810852\Documents\exercicios\bytebank4\obj\Debug\netcoreapp2.2\bytebank4.dll
+C:\Users\34436810852\Documents\exercicios\bytebank4\obj\Debug\netcoreapp2.2\bytebank4.pdb
