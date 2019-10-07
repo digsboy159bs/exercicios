@@ -69,7 +69,7 @@ namespace bytebank4
         ContaCorrente contaCorrente2 = new ContaCorrente(" 41q4","1424",cliente2);
 
         #region deposito
-        Cliente usuario = ContaCorrente.Titular;
+        Cliente usuario = contacorrente1.Titular;
         Console.WriteLine("bytebank - deposito em conta");
         Console.WriteLine($"bem vindo - {usuario.Nome}");
         Console.WriteLine($"Agencia {ContaCorrente.Agencia} conta: {contacorrente1.Numero}");
@@ -78,9 +78,42 @@ namespace bytebank4
         double valor = double.Parse(Console.ReadLine());
         contacorrente1.deposito(valor);
         System.Console.WriteLine();
-        System.Console.WriteLine($"Novo saldo: {ContaCorrente.Saldo}");
+        System.Console.WriteLine($"Novo saldo: {contacorrente1.Saldo}");
         System.Console.WriteLine();
         #endregion
+
+        #region saque
+        Console.WriteLine("bytebank - saque");
+        Console.WriteLine($"bem vindo - {usuario.Nome}");
+        Console.WriteLine($"Agencia {ContaCorrente.Agencia} conta: {contacorrente1.Numero}");
+        System.Console.WriteLine();
+        System.Console.WriteLine("digite o valor do saque: ");
+        double valor = double.Parse(Console.ReadLine());
+        contacorrente1.deposito(valor);
+        System.Console.WriteLine();
+        System.Console.WriteLine($"Novo saldo: {contacorrente1.Saldo}");
+        System.Console.WriteLine();
+        #endregion
+
+        #region transferencia
+        Console.WriteLine("bytebank - transferencia");
+        Console.WriteLine($"bem vindo - {usuario.Nome}");
+        Console.WriteLine($"Agencia {ContaCorrente.Agencia} conta: {contacorrente1.Numero}");
+        System.Console.WriteLine();
+        System.Console.WriteLine("digite o valor da transferencia: ");
+        double valor = double.Parse(Console.ReadLine());
+        if(contacorrente1.transferencia(contaCorrente2.valor){
+            Console.WriteLine("transferencia efetuada");
+        }
+
+        
+        System.Console.WriteLine();
+        System.Console.WriteLine($"Novo saldo: {contacorrente1.Saldo}");
+        System.Console.WriteLine();
+        
+
+
+
         
 
         

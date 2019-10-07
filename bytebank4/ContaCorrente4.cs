@@ -23,6 +23,32 @@ namespace bytebank4
             this.Titular = Titular;
             this.Saldo = 0.0;
         }
+        public double deposito(double valor)
+        {
+            return this.Saldo += valor;
+        }
+        public bool Saque(double valor)
+        {
+            if (this.Saldo >= valor)
+            {
+                this.Saldo -= valor;
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public bool transferencia(ContaCorrente contaDestino, double valor){
+        if(this.Saque(valor)){
+            contaDestino.deposito(valor);
+            return true;
+        }else{
+            return false;
+        }
+        }
+
 
 
 
