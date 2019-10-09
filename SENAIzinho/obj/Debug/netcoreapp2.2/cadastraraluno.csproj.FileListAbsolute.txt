@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\obj\Debug\netcoreapp2.2\cadastraraluno.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\obj\Debug\netcoreapp2.2\cadastraraluno.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\obj\Debug\netcoreapp2.2\cadastraraluno.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\obj\Debug\netcoreapp2.2\cadastraraluno.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\bin\Debug\netcoreapp2.2\cadastraraluno.deps.json
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\bin\Debug\netcoreapp2.2\cadastraraluno.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\bin\Debug\netcoreapp2.2\cadastraraluno.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\bin\Debug\netcoreapp2.2\cadastraraluno.dll
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\bin\Debug\netcoreapp2.2\cadastraraluno.pdb
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\obj\Debug\netcoreapp2.2\cadastraraluno.dll
+C:\Users\34436810852\Documents\exercicios\SENAIzinho\obj\Debug\netcoreapp2.2\cadastraraluno.pdb
