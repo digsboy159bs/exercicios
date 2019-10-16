@@ -21,6 +21,7 @@ namespace bytebank4
             bool trocouSenha = false;
 
             Cliente cliente1 = new Cliente(Nome, Cpf, Email);
+            Console.WriteLine(cliente1.Senha);
             do
             {
                 Console.Write("senha: ");
