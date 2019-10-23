@@ -1,0 +1,13 @@
+using Reciclagem.interfaces;
+
+
+namespace Reciclagem.Models
+{
+    public class GarrafaPET : Lixo, IPlastico
+    {
+        public string ReciclarFeitoPlastico()
+        {
+            return this.GetType().Name;
+        }
+    }
+}
