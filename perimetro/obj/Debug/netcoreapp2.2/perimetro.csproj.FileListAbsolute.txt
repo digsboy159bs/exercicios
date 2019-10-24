@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\perimetro\bin\Debug\netcoreapp2.2\perimetro.deps.json
+C:\Users\34436810852\Documents\exercicios\perimetro\bin\Debug\netcoreapp2.2\perimetro.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\perimetro\bin\Debug\netcoreapp2.2\perimetro.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\perimetro\bin\Debug\netcoreapp2.2\perimetro.dll
+C:\Users\34436810852\Documents\exercicios\perimetro\bin\Debug\netcoreapp2.2\perimetro.pdb
+C:\Users\34436810852\Documents\exercicios\perimetro\obj\Debug\netcoreapp2.2\perimetro.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\perimetro\obj\Debug\netcoreapp2.2\perimetro.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\perimetro\obj\Debug\netcoreapp2.2\perimetro.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\perimetro\obj\Debug\netcoreapp2.2\perimetro.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\perimetro\obj\Debug\netcoreapp2.2\perimetro.dll
+C:\Users\34436810852\Documents\exercicios\perimetro\obj\Debug\netcoreapp2.2\perimetro.pdb

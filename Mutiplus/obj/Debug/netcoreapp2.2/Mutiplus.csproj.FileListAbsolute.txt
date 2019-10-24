@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\mutiplus\bin\Debug\netcoreapp2.2\Mutiplus.deps.json
+C:\Users\34436810852\Documents\exercicios\mutiplus\bin\Debug\netcoreapp2.2\Mutiplus.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\mutiplus\bin\Debug\netcoreapp2.2\Mutiplus.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\mutiplus\bin\Debug\netcoreapp2.2\Mutiplus.dll
+C:\Users\34436810852\Documents\exercicios\mutiplus\bin\Debug\netcoreapp2.2\Mutiplus.pdb
+C:\Users\34436810852\Documents\exercicios\mutiplus\obj\Debug\netcoreapp2.2\Mutiplus.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\mutiplus\obj\Debug\netcoreapp2.2\Mutiplus.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\mutiplus\obj\Debug\netcoreapp2.2\Mutiplus.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\mutiplus\obj\Debug\netcoreapp2.2\Mutiplus.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\mutiplus\obj\Debug\netcoreapp2.2\Mutiplus.dll
+C:\Users\34436810852\Documents\exercicios\mutiplus\obj\Debug\netcoreapp2.2\Mutiplus.pdb

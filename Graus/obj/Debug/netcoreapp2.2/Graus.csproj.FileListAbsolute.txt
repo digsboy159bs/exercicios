@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\Graus\bin\Debug\netcoreapp2.2\Graus.deps.json
+C:\Users\34436810852\Documents\exercicios\Graus\bin\Debug\netcoreapp2.2\Graus.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\Graus\bin\Debug\netcoreapp2.2\Graus.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\Graus\bin\Debug\netcoreapp2.2\Graus.dll
+C:\Users\34436810852\Documents\exercicios\Graus\bin\Debug\netcoreapp2.2\Graus.pdb
+C:\Users\34436810852\Documents\exercicios\Graus\obj\Debug\netcoreapp2.2\Graus.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\Graus\obj\Debug\netcoreapp2.2\Graus.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\Graus\obj\Debug\netcoreapp2.2\Graus.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\Graus\obj\Debug\netcoreapp2.2\Graus.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\Graus\obj\Debug\netcoreapp2.2\Graus.dll
+C:\Users\34436810852\Documents\exercicios\Graus\obj\Debug\netcoreapp2.2\Graus.pdb

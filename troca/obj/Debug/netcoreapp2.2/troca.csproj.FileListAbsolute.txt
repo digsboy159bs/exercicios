@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\troca\bin\Debug\netcoreapp2.2\troca.deps.json
+C:\Users\34436810852\Documents\exercicios\troca\bin\Debug\netcoreapp2.2\troca.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\troca\bin\Debug\netcoreapp2.2\troca.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\troca\bin\Debug\netcoreapp2.2\troca.dll
+C:\Users\34436810852\Documents\exercicios\troca\bin\Debug\netcoreapp2.2\troca.pdb
+C:\Users\34436810852\Documents\exercicios\troca\obj\Debug\netcoreapp2.2\troca.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\troca\obj\Debug\netcoreapp2.2\troca.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\troca\obj\Debug\netcoreapp2.2\troca.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\troca\obj\Debug\netcoreapp2.2\troca.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\troca\obj\Debug\netcoreapp2.2\troca.dll
+C:\Users\34436810852\Documents\exercicios\troca\obj\Debug\netcoreapp2.2\troca.pdb
