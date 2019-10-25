@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\infinitivo\obj\Debug\netcoreapp2.2\infinitivo.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\infinitivo\obj\Debug\netcoreapp2.2\infinitivo.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\infinitivo\obj\Debug\netcoreapp2.2\infinitivo.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\infinitivo\obj\Debug\netcoreapp2.2\infinitivo.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\infinitivo\bin\Debug\netcoreapp2.2\infinitivo.deps.json
+C:\Users\34436810852\Documents\exercicios\infinitivo\bin\Debug\netcoreapp2.2\infinitivo.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\infinitivo\bin\Debug\netcoreapp2.2\infinitivo.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\infinitivo\bin\Debug\netcoreapp2.2\infinitivo.dll
+C:\Users\34436810852\Documents\exercicios\infinitivo\bin\Debug\netcoreapp2.2\infinitivo.pdb
+C:\Users\34436810852\Documents\exercicios\infinitivo\obj\Debug\netcoreapp2.2\infinitivo.dll
+C:\Users\34436810852\Documents\exercicios\infinitivo\obj\Debug\netcoreapp2.2\infinitivo.pdb
