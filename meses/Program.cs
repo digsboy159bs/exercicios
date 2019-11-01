@@ -46,11 +46,11 @@ namespace meses {
                 } else
                 if (num == 12) {
                     System.Console.WriteLine (" o mes correspondente é dezembro");
-                }else{
-                    System.Console.WriteLine("nao existe mes com esse numero");
+                } else {
+                    System.Console.WriteLine ("nao existe mes com esse numero");
                 }
-            }while(num>12);
-           
+            } while (num > 12);
+
         }
     }
 }

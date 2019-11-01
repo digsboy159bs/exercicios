@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\trianguloi\obj\Debug\netcoreapp2.2\trianguloi.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\trianguloi\obj\Debug\netcoreapp2.2\trianguloi.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\trianguloi\obj\Debug\netcoreapp2.2\trianguloi.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\trianguloi\obj\Debug\netcoreapp2.2\trianguloi.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\trianguloi\bin\Debug\netcoreapp2.2\trianguloi.deps.json
+C:\Users\34436810852\Documents\exercicios\trianguloi\bin\Debug\netcoreapp2.2\trianguloi.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\trianguloi\bin\Debug\netcoreapp2.2\trianguloi.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\trianguloi\bin\Debug\netcoreapp2.2\trianguloi.dll
+C:\Users\34436810852\Documents\exercicios\trianguloi\bin\Debug\netcoreapp2.2\trianguloi.pdb
+C:\Users\34436810852\Documents\exercicios\trianguloi\obj\Debug\netcoreapp2.2\trianguloi.dll
+C:\Users\34436810852\Documents\exercicios\trianguloi\obj\Debug\netcoreapp2.2\trianguloi.pdb

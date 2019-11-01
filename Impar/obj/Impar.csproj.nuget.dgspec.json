@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\34436810852\\Documents\\exercicios\\Impar\\Impar.csproj": {}
+    "C:\\Users\\34436810852\\Documents\\exercicios\\impar\\Impar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\34436810852\\Documents\\exercicios\\Impar\\Impar.csproj": {
+    "C:\\Users\\34436810852\\Documents\\exercicios\\impar\\Impar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\34436810852\\Documents\\exercicios\\Impar\\Impar.csproj",
+        "projectUniqueName": "C:\\Users\\34436810852\\Documents\\exercicios\\impar\\Impar.csproj",
         "projectName": "Impar",
-        "projectPath": "C:\\Users\\34436810852\\Documents\\exercicios\\Impar\\Impar.csproj",
+        "projectPath": "C:\\Users\\34436810852\\Documents\\exercicios\\impar\\Impar.csproj",
         "packagesPath": "C:\\Users\\34436810852\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\34436810852\\Documents\\exercicios\\Impar\\obj\\",
+        "outputPath": "C:\\Users\\34436810852\\Documents\\exercicios\\impar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

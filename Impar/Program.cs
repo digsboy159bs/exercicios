@@ -11,7 +11,7 @@ namespace Impar
             System.Console.WriteLine("digite um numero");
             num = int.Parse(Console.ReadLine());
             
-            for(int i=1  ; (i<=num); i+=2){
+            for(int i=1  ; (i<num); i+=2){
                 
                 Console.Write(i + "   ");
             }
