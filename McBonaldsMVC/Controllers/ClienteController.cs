@@ -3,27 +3,27 @@ using McBonaldsMVC.Repositories;
 using McBonaldsMVC.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+
 namespace McBonaldsMVC.Controllers
 {
-    public class ClienteController: AbstractController
+    public class ClienteController : AbstractController
     {
-       
-        
-
         private ClienteRepository clienteRepository = new ClienteRepository();
         private PedidoRepository pedidoRepository = new PedidoRepository();
         [HttpGet]
         public IActionResult Login()
         {
-           
-            return View();
+            return View(new BaseViewModel()
+            {   NomeView = "Login",
+                UsuarioEmail = ObterUsuarioSession(),
+                UsuarioNome = ObterUsuarioNomeSession()
+            });
         }
         [HttpPost]
-
         public IActionResult Login(IFormCollection form)
         {
             ViewData["Action"] = "Login";
-            try 
+            try
             {
                 System.Console.WriteLine("=================");
                 System.Console.WriteLine(form["email"]);
@@ -35,7 +35,7 @@ namespace McBonaldsMVC.Controllers
 
                 var cliente = clienteRepository.ObterPor(usuario);
 
-                if(cliente != null)
+                if (cliente != null)
                 {
                     if(cliente.Senha.Equals(senha))
                     {
@@ -47,29 +47,27 @@ namespace McBonaldsMVC.Controllers
                     {
                         return View("Erro", new RespostaViewModel("Senha incorreta"));
                     }
-
-                }else
+                }
+                else
                 {
-                    
-                    return View("Erro", new RespostaViewModel($"Usuraio {usuario} nao encontrado"));
+                    return View("Erro", new RespostaViewModel($"Usuário {usuario} não encontrado"));
                 }
 
-              
             }
-            catch(Exception e)
+            catch (Exception e)
             {
                 System.Console.WriteLine(e.StackTrace);
                 return View("Erro");
             }
         }
-        public IActionResult Historico ()
+        public IActionResult Historico()
         {
-            var emailCliente =  HttpContext.Session.GetString(SESSION_CLIENTE_EMAIL);
+            var emailCliente = HttpContext.Session.GetString(SESSION_CLIENTE_EMAIL);
             var pedidosCliente = pedidoRepository.ObterTodosPorCliente(emailCliente);
-            return View(new HistoricoViewModel()
-            {
-                Pedidos = pedidosCliente
 
+            return  View(new HistoricoViewModel()
+            {
+                Pedidos = pedidosCliente,NomeView = "Historico",UsuarioEmail = ObterUsuarioSession(), UsuarioNome = ObterUsuarioNomeSession()
             });
         }
     }
