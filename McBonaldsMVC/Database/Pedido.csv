@@ -1,1 +1,1 @@
-cliente_nome=diego;cliente_endereco=cardoso de abreu;cliente_telefone=3634636;cliente_email=diego@email;hamburguer_nome= Furioso;hamburguer_preco = 9,99;shake_nome = Chocolate;shake_preco = 12,99;data_pedido = 27/11/2019 15:10:42;preco_total = 22,98
+id=1;status_pedido=2;cliente_nome=diego;cliente_endereco=cardoso de abreu;cliente_telefone=3634636;cliente_email=diego.bsantos20@gmai;hamburguer_nome=Furioso;hamburguer_preco=9,99;shake_nome=Chocolate;shake_preco=12,99;data_pedido=28/11/2019 17:07:06;preco_total=22,98

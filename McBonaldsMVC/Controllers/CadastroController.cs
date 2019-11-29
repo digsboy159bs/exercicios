@@ -1,4 +1,5 @@
 using System;
+using McBonaldsMVC.Enums;
 using McBonaldsMVC.Models;
 using McBonaldsMVC.Repositories;
 using McBonaldsMVC.ViewModels;
@@ -29,12 +30,14 @@ namespace McBonaldsMVC.Controllers
             try
             {
                 cliente = new Cliente(form["nome"],form["endereco"],form["telefone"],form["senha"],form["email"],DateTime.Parse(form["data-nascimento"]));
+                cliente.TipoUsuario = (uint) TiposUsuario.CLIENTE;
 
                 clienteRepository.Inserir(cliente);
                 return View("Sucesso", new RespostaViewModel()
                 {
                     NomeView = "Cadastro",
-                    Mensagem = $"{cliente.Nome} seu cadastro foi concluído!"
+                    UsuarioEmail = ObterUsuarioSession(),
+                    UsuarioNome = ObterUsuarioNomeSession() 
                 });
                 
             }
