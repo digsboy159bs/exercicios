@@ -1,2 +1,3 @@
 tipo_usuario=0;nome=Administrador;email=admin@email.com;senha=123456;endereco=;telefone=;data_nascimento=26/12/2000 00:00:00
 tipo_usuario=1;nome=diego;email=diego.bsantos20@gmai;senha=123456;endereco=cardoso de abreu;telefone=3634636;data_nascimento=26/12/2000 00:00:00
+tipo_usuario=0;nome=diego;email=diego.bsantos20@gmai;senha=123456;endereco=cardoso de abreu;telefone=3634636;data_nascimento=26/12/2000 00:00:00

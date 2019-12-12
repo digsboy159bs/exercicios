@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'arial', 'open sans', sans-serif;
+}
+
+section {
+    text-align: center;
+}
+
+section h2 {
+    padding: 20px 0;
+}
+
+nav {
+    background-color: #60e4ff;
+}
+
+section h3 {
+    padding: 20px 0;
+}

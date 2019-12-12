@@ -1,0 +1,11 @@
+C:\Users\34436810852\Documents\exercicios\kahoot1\bin\Debug\netcoreapp2.2\kahoot1.deps.json
+C:\Users\34436810852\Documents\exercicios\kahoot1\bin\Debug\netcoreapp2.2\kahoot1.runtimeconfig.json
+C:\Users\34436810852\Documents\exercicios\kahoot1\bin\Debug\netcoreapp2.2\kahoot1.runtimeconfig.dev.json
+C:\Users\34436810852\Documents\exercicios\kahoot1\bin\Debug\netcoreapp2.2\kahoot1.dll
+C:\Users\34436810852\Documents\exercicios\kahoot1\bin\Debug\netcoreapp2.2\kahoot1.pdb
+C:\Users\34436810852\Documents\exercicios\kahoot1\obj\Debug\netcoreapp2.2\kahoot1.csprojAssemblyReference.cache
+C:\Users\34436810852\Documents\exercicios\kahoot1\obj\Debug\netcoreapp2.2\kahoot1.csproj.CoreCompileInputs.cache
+C:\Users\34436810852\Documents\exercicios\kahoot1\obj\Debug\netcoreapp2.2\kahoot1.AssemblyInfoInputs.cache
+C:\Users\34436810852\Documents\exercicios\kahoot1\obj\Debug\netcoreapp2.2\kahoot1.AssemblyInfo.cs
+C:\Users\34436810852\Documents\exercicios\kahoot1\obj\Debug\netcoreapp2.2\kahoot1.dll
+C:\Users\34436810852\Documents\exercicios\kahoot1\obj\Debug\netcoreapp2.2\kahoot1.pdb

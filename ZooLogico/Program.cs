@@ -50,6 +50,9 @@ namespace ZooLogico
                     
                 }
             } while (!encerrouPrograma);
+          
+
+            
             #endregion
         }
         public static void ClassificarAnimal(Animal animal)
@@ -58,33 +61,52 @@ namespace ZooLogico
             var classe = animal.GetType();
             var @interface = classe.GetInterfaces().FirstOrDefault();
 
+            bool JaulaLotada = false;
+            int vagas = 3;
+            do{
+
             if ((typeof(IAquatico)).Equals(@interface))
             {
+                
                 System.Console.WriteLine($":::{classe.Name} pode ir para a Piscina:::");
+                vagas--;
+
             }
             else if ((typeof(IArboricula)).Equals(@interface))
             {
+                vagas--;
                 System.Console.WriteLine($":::{classe.Name} pode ir para a Casa na Árvore:::");
             }
             else if ((typeof(IBranquiado)).Equals(@interface))
             {
+                 vagas--;
                 System.Console.WriteLine($":::{classe.Name} pode ir para o Aquário:::");
             }
+             
             else if ((typeof(IQuionofilo)).Equals(@interface))
             {
+                 vagas--;
                 System.Console.WriteLine($":::{classe.Name} pode ir para a Piscina Gelada:::");
             }
+
             else if ((typeof(ITerrestre)).Equals(@interface))
             {
+                 vagas--;
                 System.Console.WriteLine($":::{classe.Name} pode ir para os Pastos ou Caverna de Pedra:::");
             }
             else if ((typeof(IVoador)).Equals(@interface))
             {
+                 vagas--;
                 System.Console.WriteLine($":::{classe.Name} pode ir para a Gaiola:::");
             }
+            if(vagas == 0){
+                JaulaLotada = true;
+            }
 
+           
+            }while(! JaulaLotada);
+            System.Console.WriteLine("jaula lotada");
             Console.ReadLine();
-
         }
 
 
